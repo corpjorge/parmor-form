@@ -943,7 +943,7 @@
                                     <![if !mso]><a
                                         style="border-radius: 0;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #ffffff !important;background-color: #0071BC;font-family: Raleway, Trebuchet MS, Avenir, Segoe UI, sans-serif;"
                                         href="http://parmor.co/">Clic para saber como</a><![endif]>
-                                    <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:rect xmlns:v="urn:schemas-microsoft-com:vml" href="http://parmor.co/" style="width:194px" fillcolor="#0071BC" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,12px"><center style="font-size:14px;line-height:24px;color:#151513;font-family:Raleway,Trebuchet MS,Avenir,Segoe UI,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Clic para saber como</center></v:textbox></v:rect><![endif]-->
+                                    <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:rect xmlns:v="urn:schemas-microsoft-com:vml" href="http://parmor.co/" style="width:194px" fillcolor="#0071BC" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,12px"><center style="font-size:14px;line-height:24px;color:#ffffff;font-family:Raleway,Trebuchet MS,Avenir,Segoe UI,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Clic para saber como</center></v:textbox></v:rect><![endif]-->
                                 </div>
                             </div>
 
