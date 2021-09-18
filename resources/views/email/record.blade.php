@@ -828,7 +828,7 @@
                              style="display: table-cell;Float: left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-align: right;color: #ffffff;font-family: Raleway,Trebuchet MS,Avenir,Segoe UI,sans-serif;">
                             <p style="Margin-top: 0;Margin-bottom: 0;" emb-social="webversion">Para visualizar todo el
                                 correo
-                                <a href="https://form.parmor.co/hola" style="text-decoration: underline;">Clic aquí</a>
+                                <a href="https://form.parmor.co/hola" style="text-decoration: underline; color: #ffffff">Clic aquí</a>
                             </p>
                         </div>
                         <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
