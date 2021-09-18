@@ -1002,19 +1002,8 @@
                                                 style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #41637e;display: inline-block;border-radius: 50%;width: 24px;height: 24px;max-height: 24px;background-color: #0a0a09;"
                                                 href="http://facebook.com"><img style="border: 0;"
                                                                                 src="https://i1.createsend1.com/static/eb/master/13-the-blueprint-3/images/socialmedia/facebook-white-small.png"
-                                                                                alt="Facebook" height="24" width="24"/></a></span><span
-                                            style="padding-right: 4px;"><a
-                                                style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #41637e;display: inline-block;border-radius: 50%;width: 24px;height: 24px;max-height: 24px;background-color: #0a0a09;"
-                                                href="http://twitter.com"><img style="border: 0;"
-                                                                               src="https://i4.createsend1.com/static/eb/master/13-the-blueprint-3/images/socialmedia/twitter-white-small.png"
-                                                                               alt="Twitter" height="24"
-                                                                               width="24"/></a></span><span
-                                            style="padding-right: 4px;"><a
-                                                style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #41637e;display: inline-block;border-radius: 50%;width: 24px;height: 24px;max-height: 24px;background-color: #0a0a09;"
-                                                href="http://youtube.com"><img style="border: 0;"
-                                                                               src="https://i6.createsend1.com/static/eb/master/13-the-blueprint-3/images/socialmedia/youtube-white-small.png"
-                                                                               alt="YouTube" height="24"
-                                                                               width="24"/></a></span><span
+                                                                                alt="Facebook" height="24" width="24"/></a></span>
+                                                                                <span
                                             style="padding-right: 4px;"><a
                                                 style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #41637e;display: inline-block;border-radius: 50%;width: 24px;height: 24px;max-height: 24px;background-color: #0a0a09;"
                                                 href="http://instagram.com"><img style="border: 0;"
@@ -1023,16 +1012,10 @@
                                                                                  width="24"/></a></span><span
                                             style="padding-right: 4px;"><a
                                                 style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #41637e;display: inline-block;border-radius: 50%;width: 24px;height: 24px;max-height: 24px;background-color: #0a0a09;"
-                                                href="http://website.com"><img style="border: 0;"
+                                                href="http://parmor.co"><img style="border: 0;"
                                                                                src="https://i5.createsend1.com/static/eb/master/13-the-blueprint-3/images/socialmedia/website-white-small.png"
                                                                                alt="Website" height="24"
-                                                                               width="24"/></a></span><span
-                                            style="padding-right: 4px;"><a
-                                                style="text-decoration: underline;transition: opacity 0.1s ease-in;color: #41637e;display: inline-block;border-radius: 50%;width: 24px;height: 24px;max-height: 24px;background-color: #0a0a09;"
-                                                href="http://pinterest.com"><img style="border: 0;"
-                                                                                 src="https://i3.createsend1.com/static/eb/master/13-the-blueprint-3/images/socialmedia/pinterest-white-small.png"
-                                                                                 alt="Pinterest" height="24"
-                                                                                 width="24"/></a></span></div>
+                                                                               width="24"/></a></span></div>
                                 </div>
                             </div>
 
