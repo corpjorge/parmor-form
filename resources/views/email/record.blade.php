@@ -907,7 +907,7 @@
 
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
-                                    <h4 style="Margin-top: 0;Margin-bottom: 0;text-align: center;">¿Qué sigue?</h4>
+                                    <h2 style="Margin-top: 0;Margin-bottom: 0;text-align: center;">¿Qué sigue?</h2>
 
                                 </div>
                             </div>
