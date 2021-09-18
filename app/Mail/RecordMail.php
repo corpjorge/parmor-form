@@ -28,6 +28,6 @@ class RecordMail extends Mailable
      */
     public function build()
     {
-        return $this->view('email.record');
+        return $this->view('email.record')->subject('Bienvenido');
     }
 }
