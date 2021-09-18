@@ -930,29 +930,52 @@
                                 </div>
                             </div>
                             <hr> 
+
+                            <div style="font-size: 12px;font-style: normal;font-weight: normal;line-height: 19px;"
+                                 align="center">
+                                <img style="border: 0;display: block;height: auto;width: 100%;max-width: 480px;"
+                                     alt="Happy Birthday!" width="480"
+                                     src="https://form.parmor.co/images/2.jpg"/>
+                            </div>
+
+
                             <div style="Margin-left: 20px;Margin-right: 20px; font-style: normal;font-weight: normal;line-height: 19px;"
                                  align="center">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
-                                    <img src="https://form.parmor.co/images/2.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px; margin-left: 40px;">
+                                    
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">
                                     Tendrás acceso a descuentos como integrador y canal de distribución.</p>
 
                                 </div>
                             </div>
                             <hr>
+
+                            <div style="font-size: 12px;font-style: normal;font-weight: normal;line-height: 19px;"
+                                 align="center">
+                                <img style="border: 0;display: block;height: auto;width: 100%;max-width: 480px;"
+                                     alt="Happy Birthday!" width="480"
+                                     src="https://form.parmor.co/images/3.jpg"/>
+                            </div>
                             <div style="Margin-left: 20px;Margin-right: 20px; font-style: normal;font-weight: normal;line-height: 19px;"
                                  align="center">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
-                                    <img src="https://form.parmor.co/images/3.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px; margin-left: 40px;">
+                                    
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Capacitación técnica y comercial.</p>
 
                                 </div>
                             </div>
                             <hr>
+
+                            <div style="font-size: 12px;font-style: normal;font-weight: normal;line-height: 19px;"
+                                 align="center">
+                                <img style="border: 0;display: block;height: auto;width: 100%;max-width: 480px;"
+                                     alt="Happy Birthday!" width="480"
+                                     src="https://form.parmor.co/images/4.jpg"/>
+                            </div>
                             <div style="Margin-left: 20px;Margin-right: 20px; font-style: normal;font-weight: normal;line-height: 19px;"
                                  align="center">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
-                                    <img src="https://form.parmor.co/images/4.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px; margin-left: 40px;">
+                                   
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Acompañamiento en negociaciones y cierre de tratos para proyectos.</p>
 
                                 </div>
@@ -962,7 +985,7 @@
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Ya que te inscribiste
-                                        Te contaremos como puedes hacer parte de esta nueva historia</p>
+                                        te contaremos como puedes hacer parte de esta nueva historia</p>
 
                                 </div>
                             </div>
