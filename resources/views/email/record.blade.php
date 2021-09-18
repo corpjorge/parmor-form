@@ -911,16 +911,19 @@
 
                                 </div>
                             </div>
-                            
+
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <img src="https://form.parmor.co/images/5.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px;">
+
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Una semana antes de las operaciones, nos comunicaremos contigo para presentarte nuestro plan de negocio.</p>
 
                                 </div>
                             </div>
-                            <hr>
+                            <hr> 
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <img src="https://form.parmor.co/images/2.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px;">
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">
                                     Tendrás acceso a descuentos como integrador y canal de distribución.</p>
 
@@ -929,6 +932,7 @@
                             <hr>
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <img src="https://form.parmor.co/images/3.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px;">
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Capacitación técnica y comercial.</p>
 
                                 </div>
@@ -936,6 +940,7 @@
                             <hr>
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <img src="https://form.parmor.co/images/4.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px;">
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Acompañamiento en negociaciones y cierre de tratos para proyectos.</p>
 
                                 </div>

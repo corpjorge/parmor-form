@@ -20,6 +20,6 @@ class RecordController extends Controller
         ]);
         $record->create($request->all());
         Mail::to($request->correo)->send(new RecordMail());
-        return redirect()->back()->with('message', 'Enviado correctamente');
+        return redirect()->back()->with('message', 'Gracias por registrarte, te enviamos un correo electrónico');
     }
 }
