@@ -911,11 +911,19 @@
 
                                 </div>
                             </div>
+
+
+                            <div style="font-size: 12px;font-style: normal;font-weight: normal;line-height: 19px;"
+                                 align="center">
+                                <img style="border: 0;display: block;height: auto;width: 100%;max-width: 480px;"
+                                     alt="Happy Birthday!" width="480"
+                                     src="https://form.parmor.co/images/5.jpg"/>
+                            </div>
  
                             <div style="Margin-left: 20px;Margin-right: 20px;font-style: normal;font-weight: normal;line-height: 19px;"
                                  align="center ">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
-                                    <img src="https://form.parmor.co/images/5.jpg" style="border: 0; display: block; height: auto; width: 100%; max-width: 487px; margin-left: 40px;">
+                                     
 
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Una semana antes de las operaciones, nos comunicaremos contigo para presentarte nuestro plan de negocio.</p>
 
