@@ -82,7 +82,7 @@
                     @endif
                 </div>
                 <div class="d-grid gap-2">
-                    <button class="btn btn-primary" type="submit">Enviar</button>
+                    <button class="btn btn-primary" type="submit" style="background-color: #0071BC;">Enviar</button>
                 </div>
             </form>
         </div>

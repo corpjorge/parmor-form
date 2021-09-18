@@ -904,17 +904,53 @@
                                 </div>
                             </div>
 
+
+                            <div style="Margin-left: 20px;Margin-right: 20px;">
+                                <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <h4 style="Margin-top: 0;Margin-bottom: 0;text-align: center;">¿Qué sigue?</h4>
+
+                                </div>
+                            </div>
+                            
+                            <div style="Margin-left: 20px;Margin-right: 20px;">
+                                <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Una semana antes de las operaciones, nos comunicaremos contigo para presentarte nuestro plan de negocio.</p>
+
+                                </div>
+                            </div>
+                            <hr>
+                            <div style="Margin-left: 20px;Margin-right: 20px;">
+                                <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">
+                                    Tendrás acceso a descuentos como integrador y canal de distribución.</p>
+
+                                </div>
+                            </div>
+                            <hr>
+                            <div style="Margin-left: 20px;Margin-right: 20px;">
+                                <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Capacitación técnica y comercial.</p>
+
+                                </div>
+                            </div>
+                            <hr>
+                            <div style="Margin-left: 20px;Margin-right: 20px;">
+                                <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
+                                    <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Acompañamiento en negociaciones y cierre de tratos para proyectos.</p>
+
+                                </div>
+                            </div>
+                            <hr>
+
                             <div style="Margin-left: 20px;Margin-right: 20px;">
                                 <div style="mso-line-height-rule: exactly;mso-text-raise: 11px;vertical-align: middle;">
                                     <p style="Margin-top: 0;Margin-bottom: 0;text-align: center;">Ya que te inscribiste
-                                        y te contaremos como puedes hacer parte de esta nueva historia</p>
+                                        Te contaremos como puedes hacer parte de esta nueva historia</p>
 
                                 </div>
                             </div>
 
-                            <div style="Margin-left: 20px;Margin-right: 20px;">
-                                <div style="mso-line-height-rule: exactly;line-height: 1px;font-size: 1px;">&nbsp;</div>
-                            </div>
+
 
                         </div>
                         <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
@@ -939,12 +975,12 @@
                             </div>
 
                             <div style="Margin-left: 20px;Margin-right: 20px;">
-                                <div class="btn btn--flat btn--large" style="text-align:center;">
+                                <!--<div class="btn btn--flat btn--large" style="text-align:center;">
                                     <![if !mso]><a
                                         style="border-radius: 0;display: inline-block;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px;text-align: center;text-decoration: none !important;transition: opacity 0.1s ease-in;color: #ffffff !important;background-color: #0071BC;font-family: Raleway, Trebuchet MS, Avenir, Segoe UI, sans-serif;"
                                         href="http://parmor.co/">Clic para saber como</a><![endif]>
-                                    <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:rect xmlns:v="urn:schemas-microsoft-com:vml" href="http://parmor.co/" style="width:194px" fillcolor="#0071BC" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,12px"><center style="font-size:14px;line-height:24px;color:#ffffff;font-family:Raleway,Trebuchet MS,Avenir,Segoe UI,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Clic para saber como</center></v:textbox></v:rect><![endif]-->
-                                </div>
+                                    <!--[if mso]><p style="line-height:0;margin:0;">&nbsp;</p><v:rect xmlns:v="urn:schemas-microsoft-com:vml" href="http://parmor.co/" style="width:194px" fillcolor="#0071BC" stroke="f"><v:textbox style="mso-fit-shape-to-text:t" inset="0px,12px,0px,12px"><center style="font-size:14px;line-height:24px;color:#ffffff;font-family:Raleway,Trebuchet MS,Avenir,Segoe UI,sans-serif;font-weight:bold;mso-line-height-rule:exactly;mso-text-raise:4px">Clic para saber como</center></v:textbox></v:rect><![endif] -> -->
+                                </div> 
                             </div>
 
                         </div>
